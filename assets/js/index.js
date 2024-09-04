@@ -86,7 +86,7 @@ function mostrarGrafico(powerstats) {
     theme: "light",
     animationEnabled: true,
     title: {
-      text: "Estadísticas del Superhéroe",
+      text: "Estadísticas del SuperHero",
     },
     data: [
       {
